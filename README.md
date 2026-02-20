@@ -1,8 +1,6 @@
 # medical-data-history-sql-docker
 SQL analysis of medical data using Dockerized MySQL environment
 
-# Medical Data History SQL Project (Docker)
-
 ## Project Overview
 This project demonstrates how to use a Dockerized MySQL environment to connect to a remote medical database and perform SQL analysis.
 
